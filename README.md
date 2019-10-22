@@ -10,8 +10,7 @@ We do not expect you to know any of these tools here. But all of them are widely
 
 ## Hortonworks Data Platform Sandbox
 
-Download the latest HDP sandbox and run locally following the instructions [here](https://hortonworks.com/tutorial/learning-the-ropes-of-the-hortonworks-sandbox/) to learn how to setup and everything.
-Do the first tutorial [Learning the Ropes of the HDP Sandbox](https://hortonworks.com/tutorial/learning-the-ropes-of-the-hortonworks-sandbox)
+Download the latest HDP sandbox and run locally following the instructions [here](https://www.cloudera.com/tutorials/learning-the-ropes-of-the-hdp-sandbox.html) to learn how to setup and do the first tutorial.
 
 > This was tested running on a macbook with 16GB of RAM. Check your memory usage or deploy in the cloud if you need more. I recommend allocating at least 8GB for this `vbox`.
 
